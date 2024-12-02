@@ -23,3 +23,15 @@ Escreve um programa em javascript que permita inserir dois valores numéricos e 
 Após calcular os resultados o programa deve exibi-los na tela.
 
 ![alt text](<Screenshot from 2024-11-27 01-56-34.png>)
+
+
+## Teste de Velocidade
+
+# Escreva um programa em javascript que permita inserir o nome e a velocidade de dois veículos e exiba na tela uma mensagem dizendo qual dos dois é mais rápido (ou que as velocidades são iguais se este for o caso)
+
+
+![alt text](<Screenshot from 2024-12-01 21-36-28.png>)
+
+![alt text](<Screenshot from 2024-12-01 21-37-52.png>)
+
+![alt text](<Screenshot from 2024-12-01 21-38-34.png>)
