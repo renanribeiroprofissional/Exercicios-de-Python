@@ -27,7 +27,7 @@ Após calcular os resultados o programa deve exibi-los na tela.
 
 ## Teste de Velocidade
 
-# Escreva um programa em javascript que permita inserir o nome e a velocidade de dois veículos e exiba na tela uma mensagem dizendo qual dos dois é mais rápido (ou que as velocidades são iguais se este for o caso)
+Escreva um programa em javascript que permita inserir o nome e a velocidade de dois veículos e exiba na tela uma mensagem dizendo qual dos dois é mais rápido (ou que as velocidades são iguais se este for o caso)
 
 
 ![alt text](<Screenshot from 2024-12-01 21-36-28.png>)
