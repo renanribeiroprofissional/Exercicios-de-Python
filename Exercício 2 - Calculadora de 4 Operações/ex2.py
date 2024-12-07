@@ -12,4 +12,4 @@ subtracao = (n1 - n2)
 multiplicacao = (n1 * n2)
 divisao = (n1 / n2)
 
-print(str(soma) +"\n"+ str(subtracao) +"\n"+ str(multiplicacao) +"\n"+ str(divisao))
+print("\n"+"Soma: "+str(soma) +"\n"+"Subtração: "+ str(subtracao) +"\n"+"Multiplicação: "+ str(multiplicacao) +"\n"+"Divisão: "+ str(divisao))
